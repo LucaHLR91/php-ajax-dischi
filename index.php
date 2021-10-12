@@ -1,5 +1,5 @@
 <?php 
-
+    require __DIR__ . '/database/database.php';
 ?>
 
 <!DOCTYPE html>
@@ -20,7 +20,7 @@
 
     <main>
         <div class="container">
-            
+
         </div>
     </main>
 </body>
