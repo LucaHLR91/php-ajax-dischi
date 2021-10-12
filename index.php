@@ -23,6 +23,7 @@
 
     <main>
         <div class="container">
+            <!-- UTILIZZO CICLO FOR EACH PER CICLARE SU DATABASE IMPORTATO PRECEDENTEMENTE E CREARE STRUTTURA HTML CON I DATI -->
             <?php 
                 foreach ($db as $disc) {
                     echo '<div class="disc">';
