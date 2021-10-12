@@ -12,6 +12,10 @@
     <title>PHP-Disc</title>
 </head>
 <body>
-    
+    <header>
+        <div id="logo">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/1024px-Spotify_logo_without_text.svg.png" alt="Logo Spotify">
+        </div>
+    </header>
 </body>
 </html>
