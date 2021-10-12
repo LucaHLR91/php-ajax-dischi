@@ -23,3 +23,14 @@ header #logo {
 header #logo img {
     width: 100%;
 }
+
+/* MAIN */
+main {
+    background-color: #1E2D3B;
+    padding: 50px;
+}
+
+.container {
+    width: 70%;
+    margin: 0 auto;
+}
