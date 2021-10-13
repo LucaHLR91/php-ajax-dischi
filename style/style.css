@@ -6,6 +6,7 @@
 
 body {
     font-family: 'Source Sans Pro', sans-serif;
+    height: 100vh;
 }
 
 /* HEADER */
@@ -32,6 +33,7 @@ header #logo img {
 main {
     background-color: #1E2D3B;
     padding: 50px;
+    height: calc(100vh - 70px);
 }
 
 .container {
@@ -45,7 +47,7 @@ main {
 
 .disc {
     width: calc((100% / 5) - 20px);
-    min-height: 450px;
+    min-height: 350px;
     margin: 10px 10px;
     display: flex;
     flex-direction: column;
