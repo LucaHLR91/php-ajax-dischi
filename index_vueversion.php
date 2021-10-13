@@ -10,7 +10,9 @@
     <title>PHP Disc - Vue version</title>
 </head>
 <body>
-    
+    <div id="root">
+
+    </div>
     <script src="js/main.js"></script>
 </body>
 </html>
